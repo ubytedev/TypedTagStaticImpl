@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.9",
+	"FriendlyName": "TypedTagStaticImpl",
+	"Description": "Typed GameplayTags implementation, taken from UITag.h (CommonUI)",
+	"Category": "Other",
+	"CreatedBy": "",
+	"CreatedByURL": "https://ubyte.dev",
+	"DocsURL": "https://ubyte.dev/web-stories/what-are-typed-gameplay-tags/",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "TypedTagStaticImpl",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
